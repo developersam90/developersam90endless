@@ -1,0 +1,2 @@
+echo "# Endless Project" > README.md
+git add README.md
